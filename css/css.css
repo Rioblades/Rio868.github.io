@@ -105,12 +105,27 @@ section h2 a {
 
 		text-align: center;
 
-		padding: 10px;
+		padding: 30px;
+	
+	overflow: hidden;
+
 
 	}
+
+#services article{
+	width: 300px;
+	margin: auto;
+}
+
+
+
 #services img{
 	
 	margin: 30px;
+}
+
+#services div{
+	float: left;
 }
 
 #main{
